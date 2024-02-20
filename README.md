@@ -110,7 +110,7 @@ The code is developed using python 3.8 on Ubuntu 20.04. The code is developed an
 
 ### test
 
-   Test the CAST or UCAST model:
+   Test the consformerST or consformerST model:
    
    ```sh
    python test.py --dataroot ./datasets/{dataset_name} --name {model_name}
