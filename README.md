@@ -23,13 +23,11 @@ Follow the steps below to quickly edit your own images. The inference code in ou
    conda create -n consformerST python=3.8
    conda activate consformerST
    ```
-3. We provide a well-trained [checkpoints](https://pan.baidu.com/s/13-l1Jcz340MjT3RBAS_9sA?pwd=81y1)
- 
- 提取码：**81y1**
-Download checkpoints, put it into chickpoints.
- [models](https://pan.baidu.com/s/14in-oWN3UeAXkb5p6Fe66g?pwd=2ij2)
-提取码：**2ij2** .
-Download checkpoints, put it into models.
+3. We provide a well-trained
+   Download checkpoints, put it into chickpoints:[checkpoints](https://pan.baidu.com/s/13-l1Jcz340MjT3RBAS_9sA?pwd=81y1) 提取码：**81y1**
+
+ Download checkpoints, put it into models:[models](https://pan.baidu.com/s/14in-oWN3UeAXkb5p6Fe66g?pwd=2ij2) 提取码：**2ij2** .
+
 
 ## Model Training  
 - Download the content dataset: [MS-COCO](https://cocodataset.org/#download).
